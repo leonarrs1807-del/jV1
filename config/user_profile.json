@@ -1,0 +1,33 @@
+{
+  "name": "Sir",
+  "habits": {
+    "morning_brief": 13,
+    "get_current_time": 16,
+    "weather_report": 19,
+    "goals": 6,
+    "youtube_video": 13,
+    "open_app": 43,
+    "file_controller": 33,
+    "computer_settings": 5,
+    "whatsapp": 2,
+    "terminal_agent": 19,
+    "browser_control": 15,
+    "screen_vision": 7,
+    "google_drive": 5,
+    "web_search": 24,
+    "google_maps": 3,
+    "google_calendar": 2,
+    "jarvis_ui_control": 5,
+    "gmail_control": 3,
+    "windows_settings": 7,
+    "system_monitor": 5,
+    "native_ui": 4,
+    "self_edit": 3,
+    "openrouter_agent": 4,
+    "document_creator": 1,
+    "sleep_mode": 4,
+    "web_navigation": 5,
+    "computer_control": 3,
+    "visual_click": 5
+  }
+}
