@@ -1,0 +1,29 @@
+{
+  "notes": {},
+  "habits": {
+    "current_activity": {
+      "value": "Going out to buy food after bathing"
+    }
+  },
+  "preferences": {},
+  "context": {},
+  "relationships": {
+    "partner_pet_name": {
+      "value": "Morcito"
+    }
+  },
+  "identity": {
+    "country": {
+      "value": "Peru"
+    },
+    "location": {
+      "value": "Carhuapoma, San Mart\u00edn, Peru"
+    },
+    "current_activity": {
+      "value": "going out to buy food after bathing"
+    },
+    "city": {
+      "value": "Carhuapoma"
+    }
+  }
+}
